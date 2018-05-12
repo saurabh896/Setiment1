@@ -1,7 +1,7 @@
 import tweepy
 from textblob import TextBlob
-consumer_key ='aatEldJekUH1lsZ6L9bxg48za'
-consumer_secret ='PmVhcd3nCpzFkIzkFcRBQM0aWVG5BIEktnAdov8e6iOCE7HhZy'
+consumer_key ='Your key'
+consumer_secret ='your secret'
 
 access_token ='1918907928-AVnqp2xvCpHpY9gmJAujRxNivyoKEz8mH46b8JD'
 access_token_secret='65mS9HlaGUgYVjk5ctbT4JQnoVLNRb3pcbVxmqw1nOMky'
